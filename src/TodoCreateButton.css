@@ -1,0 +1,26 @@
+.quantity{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.StyleButton{
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 40px;
+    border: 0;
+    box-shadow: 0 0 5px #ffffff;
+    border-radius: 10px;
+    background-color: rgb(184, 220, 255);
+    font-size: 25px;
+}
+
+.styleQuantity{
+    color: #ffffff;
+    text-shadow: 0 0 5px #ffffff;
+    font-size: 20px;
+    padding: 2px 25px;
+}

@@ -1,0 +1,34 @@
+.formQuatity{
+
+  
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.sectionQuatity{
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    background-color: #002757;
+    border-radius: 10px;
+
+}
+
+.oneQuatity{
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 30px;
+}
+
+.numberQuatity{
+    color: white;
+    font-size: 25px;
+    margin: 20px;
+    padding-top: 30px;
+}

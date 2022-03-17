@@ -1,0 +1,37 @@
+.formBasic{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.textBasic{
+    color: aliceblue;
+    margin-bottom: 4px;
+    margin-top: 5px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.box{
+    background-color: rgb(255, 255, 255);
+    border: 0px;
+    border-radius: 5px;
+    width: 50vh;
+    height: 30px;
+    margin: 2px auto;
+    box-shadow: 3px 3px rgb(139, 141, 250);
+    font-size: 19px;
+
+}
+
+.box::placeholder{
+    color:rgb(141, 141, 141);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    padding-left: 5px;
+}
+
+.box:focus{
+    outline-color:rgb(255, 0, 0) ;
+}

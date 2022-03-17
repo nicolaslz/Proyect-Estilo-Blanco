@@ -1,0 +1,51 @@
+
+.formMeasure{
+   
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.SectionMesuare{
+   
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+
+}
+.textMeasure{
+    color: aliceblue;
+    margin-bottom: 4px;
+    margin-top: 5px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+
+}
+
+.oneMeasure{
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 2px 50px;
+}
+
+.boxMeasure{
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    border: 0px;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    margin: 2px auto;
+    box-shadow: 3px 3px rgb(139, 141, 250);
+}
+
+.boxMeasure::placeholder{
+   
+    color:rgb(141, 141, 141);    font-size: 16px;
+    padding-left: 5px;   
+}
