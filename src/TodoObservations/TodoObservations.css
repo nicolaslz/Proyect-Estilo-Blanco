@@ -1,0 +1,11 @@
+.boxTextObservations{
+    color: blue;
+    margin-top: 20px;
+}
+
+.textArea{
+    width: 300px;
+    min-height:200px ;
+    border-radius: 5px;
+    font-size: 16px;
+}

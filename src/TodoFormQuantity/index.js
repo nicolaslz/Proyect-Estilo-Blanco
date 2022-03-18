@@ -5,14 +5,16 @@ function TodoFormQuantity({quantity,arrayQuatity}){
 
     //console.log(quantity)
 
-    const posicion = arrayQuatity[0];
+    
+    const posicion = arrayQuatity.length;
+    console.log(posicion)
 
     return(
 
-        <form className="formQuatity">
+        <form className="formQuatity" id="formQuatity">
           
-          <div className="sectionQuatity">
-               <p className="numberQuatity">{posicion})</p>
+          <div className="sectionQuatity" id="boxQuatity">
+               <p className="numberQuatity"></p>
 
            <div className="oneQuatity">
                <span className="textBasic">COLOR PRINCIPAL</span>
