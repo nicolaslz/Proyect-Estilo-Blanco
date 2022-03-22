@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Proyect-Estilo-Blanco
+Esta es la etapa de front-end realizada desde react con una composición de un react-estandar.
+
+Este es el formulario para los datos del cliente.
+  - Datos basicos
+  - Cantidad ( se muestra de manera dinamica)
+  - Bordado
+  - Medidas
+  - Observaciones.
+  - Pagos
+
+
+>>>>>>> b2c2410eeef47f6a56d3c647a8b4895a689bd6e8
