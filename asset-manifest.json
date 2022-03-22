@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Proyect-Estilo-Blanco/static/css/main.69c396c1.css",
+    "main.js": "/Proyect-Estilo-Blanco/static/js/main.435095b0.js",
+    "index.html": "/Proyect-Estilo-Blanco/index.html",
+    "main.69c396c1.css.map": "/Proyect-Estilo-Blanco/static/css/main.69c396c1.css.map",
+    "main.435095b0.js.map": "/Proyect-Estilo-Blanco/static/js/main.435095b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69c396c1.css",
+    "static/js/main.435095b0.js"
+  ]
+}
